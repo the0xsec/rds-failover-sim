@@ -1,4 +1,0 @@
-config:
-  aws:region: us-east-1
-  infra:dbPassword:
-    secure: AAABANUQ8j4LKzoCPf4CVDVOegGpFR9IsUlZkUFBAZ1ktPhU4+n4I9qIFPVeYw==
