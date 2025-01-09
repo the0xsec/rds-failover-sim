@@ -1,6 +1,0 @@
-{
-    "dbIdentifier": "rds-instancef867602",
-    "Endpoint": "rds-instancef867602.crqyyu4keq2c.us-east-1.rds.amazonaws.com",
-    "Port": 3306,
-    "vpcId": "vpc-09b17a47c63b7f79f"
-}
