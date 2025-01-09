@@ -1,0 +1,7 @@
+name: rds-failover
+description: A RDS Failover Demo
+runtime: go
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-go
